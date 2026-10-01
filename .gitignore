@@ -1,0 +1,11 @@
+.DS_Store
+.env
+*.log
+.idea/
+.vscode/
+*.tfstate
+*.tfstate.*
+.terraform/
+.terraform.lock.hcl
+kubeconfig
+*.kubeconfig
